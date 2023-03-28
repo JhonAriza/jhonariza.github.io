@@ -82,9 +82,9 @@ html{
     max-width: 200px;
     border-radius: 50%;
     position: absolute;
-    left:10%;
-    top: -90px;
     transform: translateX(-50%);
+    left: 28%;
+    top: -111px;
 }
 /* estilos generales */
 .titulo-seccion{
